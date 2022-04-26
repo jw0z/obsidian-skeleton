@@ -1,0 +1,23 @@
+{
+  "attachmentFolderPath": "./_mdresources",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "spellcheck": false,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "lineWrap": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true
+}
