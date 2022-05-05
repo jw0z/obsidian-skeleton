@@ -4,91 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd1a94282e6381db",
+        "id": "55d3e1eaa2dbe185",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D📝OC/qemu.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "1e5af629b75b1a7a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D📝OC/tmux.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "fa7a5f0dd76b5231",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D📝OC/purple lab.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "196b5924fa57dd5d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "F🥇ORMATION/CYBERSECURITY THREAT HUNTING FOR SOC ANALYSTS/cybersecurity-threat-hunting-for-soc-analysts.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "303e6de3cecb241f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "O🚧RG/_T-notes/test.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "6d071f0dd09af94d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D📝OC/bluetooth.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "3ed5c4818e7b1258",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D📝OC/obsidian.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "cc0cdbafc9be6dc4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "E⚔️XCALIDRAW/Py-WS-DashboardOpCo-DS.excalidraw.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -153,13 +73,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D📝OC/obsidian.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "f79725c268991282",
+            "id": "e2daf5145ccf496b",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -190,13 +108,13 @@
     "direction": "horizontal",
     "width": 334
   },
-  "active": "3ed5c4818e7b1258",
+  "active": "55d3e1eaa2dbe185",
   "lastOpenFiles": [
+    "O🚧RG/_T-notes/test.md",
     "D📝OC/obsidian.md",
     "D📝OC/bluetooth.md",
     "D📝OC/ble.md",
     "E⚔️XCALIDRAW/Py-WS-DashboardOpCo-DS.excalidraw.md",
-    "O🚧RG/_T-notes/test.md",
     "O🚧RG/_T-notes/ctf.md",
     "F🥇ORMATION/CYBERSECURITY THREAT HUNTING FOR SOC ANALYSTS/cybersecurity-threat-hunting-for-soc-analysts.md",
     "O🚧RG/_T-snippets/c++.md",
